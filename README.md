@@ -1,2 +1,3 @@
 # FF3Factor
-Fama French 3 Factor Model
+
+[Fama-French Three-Factor Model](https://www.investopedia.com/terms/f/famaandfrenchthreefactormodel.asp)
